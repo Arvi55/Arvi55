@@ -52,8 +52,8 @@ I’m passionate about growing in my career, picking up new tech skills, and mak
 <h3 align="center">🤝 Let’s Connect!</h3>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><b>Email</b></a> •
-  <a href="https://www.linkedin.com/in/yourprofile"><b>LinkedIn</b></a> •
+  <a href="avinash542005@gmail.com"><b>Email</b></a> •
+  <a href="(https://www.linkedin.com/in/arvi5/)"><b>LinkedIn</b></a> •
   <a href="https://yourportfolio.com"><b>Portfolio</b></a>
 </p>
 
