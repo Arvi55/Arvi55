@@ -23,7 +23,7 @@ I started where most data folks start : SQL queries, Pandas notebooks, Power BI 
 Then I found agents : systems that don't just visualize data, they **reason over it**, decide what to look up next, and answer in plain English without a dashboard in between. That's where I live now.
 
 - 📊 → 🤖 Started in data analysis, now building agentic AI on top of that same data foundation
-- 📈 Machine learning shows up across most of it — forecasting, classification, segmentation : wherever the data calls for it
+- 📈 Machine learning shows up across most of it : forecasting, classification, segmentation : wherever the data calls for it
 - 🔭 Currently building **agentic AI systems** with LangChain / LangGraph
 - 🧠 Into multi-step reasoning, tool-calling agents, and RAG pipelines
 - 💹 Off-screen, I trade gold (XAUUSD) and Indian equity market: different kind of pattern-reading, same obsession with signal over noise
