@@ -34,7 +34,7 @@ Then I found agents : systems that don't just visualize data, they **reason over
 ### 🧩 Featured Projects
 
 **[VINDICA — AI-Powered Employee Intelligence System](https://github.com/Arvi55/VINDICA-AI-Powered-Employee-Intelligence-System)**
-An agent that lets HR ask plain-English questions about employees and get answers grounded in real data — not guesses. Multi-hop tool reasoning, database-grounded responses, zero hallucination by design.
+An agent that lets HR ask plain-English questions about employees and get answers grounded in real data : not guesses. Multi-hop tool reasoning, database-grounded responses, zero hallucination by design.
 `LangGraph` `LangChain` `FastAPI` `Supabase` `Groq`
 
 ---
