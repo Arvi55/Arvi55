@@ -26,7 +26,7 @@ Then I found agents : systems that don't just visualize data, they **reason over
 - 📈 Machine learning shows up across most of it : forecasting, classification, segmentation : wherever the data calls for it
 - 🔭 Currently building **agentic AI systems** with LangChain / LangGraph
 - 🧠 Into multi-step reasoning, tool-calling agents, and RAG pipelines
-- 💹 Off-screen, I trade gold (XAUUSD) and Indian equity market: different kind of pattern-reading, same obsession with signal over noise
+- 💹 Off-screen, I trade Forex(currency),gold (XAUUSD) and Indian equity market: different kind of pattern-reading, same obsession with signal over noise
 - 💬 Ask me about agent architecture, LangGraph, or anything data
 
 ---
